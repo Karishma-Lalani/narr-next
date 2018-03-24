@@ -2,11 +2,11 @@
  * action types
  */
 
-export const ADD_ENTRY = 'ADD_ENTRY'
-export const TOGGLE_SELECTED = 'TOGGLE_SELECTED'
-export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER'
-export const SET_PRIVACY_FILTER = 'SET_PRIVACY_FILTER'
-export const SET_TIME_FILTER = 'SET_TIME_FILTER'
+export const ADD_ENTRY = 'ADD_ENTRY';
+export const TOGGLE_SELECTED = 'TOGGLE_SELECTED';
+export const SET_VISIBILITY_FILTER = 'SET_VISIBILITY_FILTER';
+export const SET_PRIVACY_FILTER = 'SET_PRIVACY_FILTER';
+export const SET_TIME_FILTER = 'SET_TIME_FILTER';
 
 /*
  * other constants
